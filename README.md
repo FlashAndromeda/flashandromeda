@@ -13,6 +13,9 @@ My name's Michael and I'm a software engineer from Poland.
 
 ## My Links:
 📄[Read.cv](https://read.cv/flashandromeda)
+
 ✉[michalfleites@gmail.com](mailto:michalfleites@gmail.com)
+
 🟦[LinkedIn](https://www.linkedin.com/in/michalfleites/)
+
 🦆[Twitter](https://twitter.com/FlashAndromeda)
