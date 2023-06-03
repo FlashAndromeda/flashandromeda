@@ -5,11 +5,11 @@ My name's Michael and I'm a software engineer from Poland.
 ### Currently I am:
 * Learning sockets in Python🔌
 * Learning with GLSL shaders
+* Learning Unreal Engine 5.2
 
 ### In the near future I will:
 * Pick up learning Rust⚙
 * Learn Three.js🔻
-* Return to learning Unity (and make some games 🎉)
 
 ## My Links:
 📄[Read.cv](https://read.cv/flashandromeda)
