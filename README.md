@@ -1,7 +1,7 @@
 #  Hello! 💬
 My name's Michael and I'm a software engineer from Poland.
 
-*I believe in coding as a tool of self-expression so my passion lies with creating.*
+*I believe in coding as a tool of self-expression, my passion ultimately lies with creating.*
 ### Currently I am:
 * Learning sockets in Python🔌
 * Learning with GLSL shaders
