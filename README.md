@@ -3,14 +3,9 @@ My name's Michael and I'm a software engineer from Poland.
 
 *I believe in coding as a tool of self-expression, my passion ultimately lies with creating.*
 ### Currently I am:
-* Learning sockets in Python🔌
-* Learning the Svelte framework
-* Learning writing shaders in GLSL
-* Learning Unreal Engine 5.2
-
-### In the near future I will:
-* Pick up learning Rust⚙
-* Learn Three.js🔻
+* Working on a website for a client
+* Learning microcontroller programming with Circuitpython and C++
+* Working on a Raspberry Pi Pico based electronics project
 
 ## My Links:
 📄[Read.cv](https://read.cv/flashandromeda)
